@@ -1,0 +1,20 @@
+2017-10-12 00:30:29,428 WARN  [SoapUI] Missing folder [C:\Users\Pamela\Documents\2017 Segundo Semestre\SA\Envios\Envios\Envios\ext] for external libraries
+2017-10-12 00:30:29,687 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Pamela\soapui-settings.xml]
+2017-10-12 00:30:30,772 INFO  [PluginManager] 0 plugins loaded in 2 ms
+2017-10-12 00:30:30,772 INFO  [DefaultSoapUICore] All plugins loaded
+2017-10-12 00:30:31,559 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Pamela/Desktop/pruebasFuncionales/PruebaFuncional-Envios-soapui-project.xml]
+2017-10-12 00:30:31,566 INFO  [SoapUITestCaseRunner] Running SoapUI tests in project [PruebaFuncional_Envios]
+2017-10-12 00:30:31,567 INFO  [SoapUITestCaseRunner] Running Project [PruebaFuncional_Envios], runType = SEQUENTIAL
+2017-10-12 00:30:31,583 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [calcular_costo_viaje TestCase]
+2017-10-12 00:30:31,591 INFO  [SoapUITestCaseRunner] running step [calcular_costo_viaje]
+2017-10-12 00:30:31,914 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2017-10-12 00:30:31,915 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [calcular_costo_viaje TestCase], time taken: 314ms, status: FINISHED
+2017-10-12 00:30:31,916 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [cargar_Vehiculos TestCase]
+2017-10-12 00:30:31,916 INFO  [SoapUITestCaseRunner] running step [cargar_Vehiculos]
+2017-10-12 00:30:31,925 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2017-10-12 00:30:31,925 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [cargar_Vehiculos TestCase], time taken: 8ms, status: FINISHED
+2017-10-12 00:30:31,926 INFO  [SoapUITestCaseRunner] Running SoapUI testcase [guardar_Transferencia TestCase]
+2017-10-12 00:30:31,926 INFO  [SoapUITestCaseRunner] running step [guardar_Transferencia]
+2017-10-12 00:30:31,934 INFO  [SoapUITestCaseRunner] Assertion [SOAP Response] has status VALID
+2017-10-12 00:30:31,934 INFO  [SoapUITestCaseRunner] Finished running SoapUI testcase [guardar_Transferencia TestCase], time taken: 7ms, status: FINISHED
+2017-10-12 00:30:31,935 INFO  [SoapUITestCaseRunner] Project [PruebaFuncional_Envios] finished with status [FINISHED] in 362ms
